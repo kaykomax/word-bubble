@@ -1,0 +1,4 @@
+hello::سلام
+world::جهان
+book::کتاب
+learn::یادگیری

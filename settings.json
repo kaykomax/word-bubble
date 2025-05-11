@@ -1,0 +1,17 @@
+{
+    "selected_file": "sample_list.txt",
+    "bubble_duration": 3,
+    "bubble_interval": 1,
+    "font_size": 30,
+    "word_color": "#ff0004",
+    "meaning_color": "#ffffff",
+    "bg_color": "#000000",
+    "opacity": 1.0,
+    "top_most": true,
+    "text_alignment": "center",
+    "selected_font": "Far_Diplomat.ttf",
+    "language": "fa",
+    "play_mode": "sequential",
+    "bubble_position": "cascade_right_to_left_bottom_right",
+    "dark_mode": false
+}
