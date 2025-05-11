@@ -1,5 +1,5 @@
 # Word Bubble
-![اسکرین‌شات برنامه](screenshots/screenshot_main.png)
+![ screenshot](screenshots/screenshot_main.png)
 ![Word Bubble Logo](icon/app_icon.png)
 
 **Word Bubble** is a desktop application that helps you learn words and their meanings through floating bubbles on your screen. With a simple and engaging interface, it’s designed for language learning (e.g., English or Persian) and supports various bubble display modes, light/dark themes, and word list management.
